@@ -2,7 +2,7 @@
 <p><b><span style="font-size: 14pt;">1. JDK (</span><span style="font-size: 14pt;">Java SE Development Kit 8 Downloads)&nbsp;</span><span style="font-size: 14pt;">설치 </span></b></p>
 <p></p><hr><p></p>
 <p><br /></p>
-<p>Google 에 jdk 검색 또는&nbsp;<a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank" class="tx-link">http://img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile24.uf.tistory.com%2Fimage%2F99183E335A9F76DC06F21D</a>링크 클릭</p>
+<p>Google 에 jdk 검색 또는&nbsp;<a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank" class="tx-link">http://img1.daumcdn.net/thumb/R1920x0/fname=http%3A%2F%2Fcfile24.uf.tistory.com%2Fimage%2F99183E335A9F76DC06F21D</a>링크 클릭</p>
 
 <p><br /></p>
 <p>다음 이미지 처럼, 라이센스 동의 후, 다운로드 진행&nbsp;</p>
