@@ -1,27 +1,13 @@
-- [1. ATOM](#1-atom)
-- [2. 과연 무엇이 옳은 결과 일까](#2----------------)
+> 안녕하세요. 전문연을 준비하고 있는 석사 졸업생입니다. Programming 공부와 함께 blog, github 포스팅을 이어 가려 합니다. 꾸준히 업데이트하여 많은 사람이 도움받고 배움을 이어 갔으면 좋겠습니다. 질문 사항이나 함께 GIT Project를 이어가실 분은 issues 나 mdnbo1@naver.com 으로 연락해주세요 :)**2018 - 03 - 09 Github Start !**
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+:memo: Contents
+---------------
 
-## 1. ATOM  
+---
 
-> 실습형<br> 확인사항 체크중 <br>[자바 , 이클립스 설치 ](http://cherwoo.tistory.com/87)
-> 1.	Markdown 이란? -----------------
-> 글쎄 멏진 글이야 뭐지 실습확인중이야* 별표당
+-	Programming Language
 
-## 2. 과연 무엇이 옳은 결과 일까
+	-	Java (문법기초, 디자인패턴)
+	-	Python (업데이트 예정)
 
-> 모르게엉* 흐엉흐엉* 안녕 1. 안녕 2. 0202`
-> 프로그램 수행 중`return ab`라는 문장을 만나면 결과값이 리턴됩니다.
-> `
-
-```{.java}
-class Test {
-    public static void main(String[] args) {
-        System.out.pritnln("hello world");
-    }
-}
-``` 
-
-- [1. ATOM](#1-atom)
-- [2. 과연 무엇이 옳은 결과 일까](#2----------------)
+-	알고리즘 (업데이트 예정)
