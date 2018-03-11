@@ -7,7 +7,10 @@
 
 -	Programming Language
 
-	-	Java (문법기초, 디자인패턴)
+	-	Java
+		-	[java 기초문법](https://github.com/Munchurwoo/Programming_Languages_Cleanup/Java/README.md)
+		-	자바 디자인패턴
+		-	자바 자료구조
 	-	Python (업데이트 예정)
 
 -	알고리즘 (업데이트 예정)
