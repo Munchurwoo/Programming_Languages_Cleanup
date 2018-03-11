@@ -9,7 +9,7 @@ Java Step 1
 -----------
 
 -	[Java 설치하기](http://cherwoo.tistory.com/87)
--	[기초 문법]()
+-	[기초 문법](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_Step1.md)
 	-	변수
 	-	배열
 	-	반복문
