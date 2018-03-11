@@ -8,7 +8,8 @@ Part 1. Java Basic 문법
 Java Step 1
 -----------
 
--	기초 문법
+-	[Java 설치하기](http://cherwoo.tistory.com/87)
+-	[기초 문법]()
 	-	변수
 	-	배열
 	-	반복문
