@@ -8,9 +8,11 @@
 -	Programming Language
 
 	-	Java
+
 		-	[java 기초문법](https://github.com/Munchurwoo/Programming_Languages_Cleanup/tree/master/Java)
 		-	자바 디자인패턴
 		-	자바 자료구조
+
 	-	Python (업데이트 예정)
 
 -	알고리즘 (업데이트 예정)
