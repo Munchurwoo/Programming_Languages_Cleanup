@@ -3,8 +3,6 @@
 :memo: Contents
 ---------------
 
----
-
 -	Programming Language
 
 	-	Java
