@@ -1,7 +1,7 @@
 :memo: **JAVA Languag**
 
-Part 1. Java Basic 문법
-=======================
+Part 1. Java 간단 정리
+======================
 
 Java Step 1
 -----------
@@ -10,6 +10,7 @@ Java Step 1
 -	[기초 문법](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_Step1.md)
 	-	변수
 	-	배열
+	-	조건문
 	-	반복문
 	-	메서드 호출과 프로그램
 	-	문자열(String) 다루기
