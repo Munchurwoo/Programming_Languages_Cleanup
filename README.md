@@ -8,9 +8,10 @@
 	-	Java
 
 		-	[java 기초문법](https://github.com/Munchurwoo/Programming_Languages_Cleanup/tree/master/Java)
+		- [자바 응용 예제](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_Ex.md)
 		-	자바 디자인패턴
 		-	자바 자료구조
-		- [자바 응용 예제](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_Ex.md)
+
 
 	-	Python (업데이트 예정)
 
