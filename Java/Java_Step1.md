@@ -121,7 +121,7 @@ switch(조건값) {
 		break;
 }
 ```
-
+[if 문 예제](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_SourceCode/Lesson_1/src/Ex_if.java)
 ### <h3 id=5>5. 반목문<h3>
 
 -	반복문은 순환문이라고도 하며, 분기문과 함께 프로그램에서 기본적인 로직을 구성하는 기본 문법 중 하나이다.
@@ -145,7 +145,7 @@ do {
     명령문;
 } while(조건값)
 ```
-
+[for 문을 통한 구구단, 간단 예제](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_SourceCode/Lesson_1/src/Ex_for.java)
 ### <h3 id=6> 6.배열<h3>
 
 -	배열은 인덱스(순차 번호)와 인덱스로 참조 가능한 데이터로 된 일종의 자료구조이다.
