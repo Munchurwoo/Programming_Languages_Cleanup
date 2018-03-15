@@ -21,6 +21,5 @@ public class Ex_Switch {
 			System.out.println("모르겠습니다.");
 			break;
 		}
-		
 	}
 }
