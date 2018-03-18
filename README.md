@@ -20,3 +20,6 @@
 		- 1 Step
 - Samsung 알고리즘 준비 (3월 중 업데이트 예정)
 - kakao 알고리즘 준비 (4월 초 업데이트 예정 )
+---
+:memo: **Java 면접에 도움 되는 사이트**
+- [한재엽 님 깃허브 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
