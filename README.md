@@ -3,15 +3,13 @@
 ---
 :memo: **나의 하루 개발일지**
 - 2018-04-11 START !
-- 문철우 개발일지  : 클릭[]()
+- 문철우 개발일지  : [클릭](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/MyStory.md)
 
 <<<<<<< HEAD
 ---
 =======
 <h3> 현재 angular & django Project 진핸중 <br>
--	오류 확인중
 
->>>>>>> f276e96fa0a491c3421d6e90387698bfc79a661d
 :memo: Contents
 ---------------
 
