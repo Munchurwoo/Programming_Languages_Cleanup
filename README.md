@@ -5,7 +5,13 @@
 - 2018-04-11 START !
 - 문철우 개발일지  : 클릭[]()
 
+<<<<<<< HEAD
 ---
+=======
+<h3> 현재 angular & django Project 진핸중 <br>
+-	오류 확인중
+
+>>>>>>> f276e96fa0a491c3421d6e90387698bfc79a661d
 :memo: Contents
 ---------------
 
@@ -17,7 +23,7 @@
 		- [자바 응용 예제](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_Ex.md)
 		-	자바 디자인패턴
 		-	자바 자료구조
-
+		- 오류 확인
 
 	-	Python (업데이트 예정)
 
