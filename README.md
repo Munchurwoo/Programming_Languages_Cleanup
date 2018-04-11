@@ -5,9 +5,9 @@
 - 2018-04-11 START !
 - 문철우 개발일지  : [클릭](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/MyStory.md)
 
-<<<<<<< HEAD
+
 ---
-=======
+
 <h3> 현재 angular & django Project 진핸중 <br>
 
 :memo: Contents
