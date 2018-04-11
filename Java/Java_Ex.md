@@ -4,4 +4,5 @@
 - [1~10까지의 합, 홀수, 짝수의 합, 구구단 가로 세로 출력](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_SourceCode/Lesson_1/src/Ex_for.java)
 - [switch 문을 활용한 홀수 짝수 판별](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_SourceCode/Lesson_1/src/Ex_Switch.java)
 - [1부터 N까지 for 문으로 출력](http://cherwoo.tistory.com/103?category=696892)
+- [배열을 활용한 학생 이름 선언과 각 학생별 키 입력 및 평균, 최대,최소 키 출력](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/Java/Java_SourceCode/Lesson_1/src/arrayExam.java)
 #### [첫 페이지로 이동](https://github.com/Munchurwoo/Programming_Languages_Cleanup/blob/master/README.md)
