@@ -39,7 +39,7 @@ public class arrayExam {
 		System.out.println();
 		System.out.printf("키가 가장 큰 학생은 %s 이고, 키는 %d 입니다. \n" ,Student[maxHIndex], StuHeight[maxHIndex]);
 		System.out.printf("키가 가장 작은 학생은 %s 이고, 키는 %d 입니다." ,Student[minHIndex], StuHeight[minHIndex]);
-		System.out.println("cherwoo.tistory.com 블로그 주소입니다.");
+		
 	}
 
 }
