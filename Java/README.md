@@ -27,3 +27,4 @@ Java Step 2
 Java Step 3
 -----------
 - update 예정
+- angular project 진행중
